@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/project-SevenTeam17/",
+    "build": "vite build --base=/100_js_Svietlova/",
     "preview": "vite preview"
   },
   "devDependencies": {
